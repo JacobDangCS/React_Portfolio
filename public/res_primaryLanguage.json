@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Jacob Dang. I'm a student at Code Fellows and as of 2022, a intermediate student. I have experience with HTML, CSS, Javascript, React, and Bootstrap",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,36 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Film Quiz Project",
+        "startDate": "2022",
+        "description": "My attempt of showing I have early-intermediate level of coding understanding accumulated through self-teaching. Uses the application standards of a 201 Final Project",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/PICTURE GOES HERE, FOLLOW PATH"
         ],
-        "url": "",
+        "url": "https://github.com/JacobDangCS50/Updated_EntranceProj",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Horned Beasts",
+        "startDate": "2022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/PICTURE GOES HERE"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/JacobDangCS50/HornedBeast",
         "technologies": [
           {
             "class": "devicon-react-original",
