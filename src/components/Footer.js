@@ -13,6 +13,30 @@ class Footer extends Component {
         );
       });
     }
+
+    return (
+      <footer>
+        <div className="container">
+          <div className="row">
+            <div className="col social-links">{networks}</div>
+            <div className="col">
+            </div>
+            <div className="col">
+              <div className="copyright py-4 text-center">
+                <div className="container">
+                  <small>
+                    Copyright &copy;{" "}
+                    {this.props.sharedBasicInfo
+                      ? this.props.sharedBasicInfo.name
+                      : "???"}
+                  </small>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    );
   }
 }
 
